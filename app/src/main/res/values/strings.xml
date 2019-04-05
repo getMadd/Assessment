@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Assessment</string>
     <string name="action_settings">Settings</string>
+    <string name="title_text">List of Users</string>
+    <string name="input_name">Enter Name</string>
+    <string name="input_job">Enter Job</string>
 </resources>
